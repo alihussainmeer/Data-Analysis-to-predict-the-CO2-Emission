@@ -19,4 +19,4 @@ FUEL CONSUMPTION COMB (L/100 km) e.g. 9.2<br>
 CO2 EMISSIONS (g/km) e.g. 182 --> low --> 0<br>
 <br>
 I will include a jupyter notebook file for those who want to use it directly. 
-I have also included the html file of the same project so that people who are not having jupyter can view it.
+HTML file of the same project is also available for people who do not have access to the jupyter notebooks.
